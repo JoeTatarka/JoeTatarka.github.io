@@ -11,10 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
--======
-
-Senior Thesis
+Undergraduate Research
 -======
 
 {% for post in site.publications reversed %}
