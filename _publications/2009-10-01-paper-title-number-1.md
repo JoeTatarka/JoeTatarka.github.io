@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Education and Agricultral Technology"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2021-12-01-education-and-agricultural-technology
+excerpt: 'I use household survey data from Ethiopia to study the effect of education on the adoption of agricultural technologies using distance from household as an instrument for years of education.'
 date: 2009-10-01
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/dev_econ_term_paper.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I use household survey data from Ethiopia to study the effect of education on the adoption of five agricultural technologies: improved seeds, fertilizer, preventative measures (e.g. pesticides), extension programs, and irrigation. To account for possible omitted variable bias I use household distance from government primary and secondary schools as instruments for education. The estimates indicate that overall education has a positive effect on all agricultural technologies studied, except for the use of agricultural extension programs for which education has a negative effect. Looking into heterogeneous effects of education across crops reveals that education has a positive effect on adoption of most technologies for major staple crops but a negative effect for non staple crops.
