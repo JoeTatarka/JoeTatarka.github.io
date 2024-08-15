@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-05-01-paper-title-number-3
 excerpt: 'I study the heterogeneous effects of the Earned Income Tax Credit (EITC) using a difference-in-difference approach comparing unmarried women without children to unmarried mothers.'
 date: 2023-05-01
-paperurl: 'http://joetatarka.github.io/files/advanced_labor_econ.pdf'
+paperurl: 'http://joetatarka.github.io/files/advanced_labor_econ_term_paper.pdf'
 venue: "Advanced Labor Economics Term Paper"
 ---
 
