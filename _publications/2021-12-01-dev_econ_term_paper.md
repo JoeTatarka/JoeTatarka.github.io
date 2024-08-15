@@ -3,7 +3,7 @@ title: "Education and Agricultral Technology"
 collection: publications
 permalink: /publication/2021-12-01-education-and-agricultural-technology
 excerpt: 'I use household survey data from Ethiopia to study the effect of education on the adoption of agricultural technologies using distance from household as an instrument for years of education.'
-date: 2022-12-01
+date: 2021-12-01
 paperurl: 'http://joetatarka.github.io/files/dev_econ_term_paper.pdf'
 venue: "Empirical Methods in Development Economics Term Paper"
 ---
