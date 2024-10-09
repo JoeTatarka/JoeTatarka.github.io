@@ -11,9 +11,9 @@ Hi, I'm Joe Tatarka. I am applying to economics PhD programs to start in Fall 20
 
 
 ## Background and Interests
-I graduated from the University of Notre Dame with a B.S. in Mathematics and Economics in 2023. While in undergrad I was a research assistant for Professors A. Nilesh Fernando and Yong Suk Lee. I also worked for Notre Dame's Wilson Sheehan Lab for Economic Opportunities (LEO) as a research operations intern helping with their mission of estimating the causal effect of poverty interventions using randomized controlled trials. After I graduated from college I began working as a predoc at Booth.
+I graduated from the University of Notre Dame with a B.S. in Mathematics and Economics in 2023. While in undergrad I worked for Notre Dame's Wilson Sheehan Lab for Economic Opportunities (LEO) as a research operations intern helping with their mission of estimating the causal effect of poverty interventions using randomized controlled trials. After I graduated from college I began working as a predoc at Booth.
 
-I am interested in applied microeconomics.
+I am interested in applied microeconomics, specifically related to topics of work and labor markets.
 
 
 
