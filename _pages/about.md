@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Joe Tatarka. I am currently applying to economics PhD programs to start in Fall 2025. I am currently working as a predoc at the University of Chicago Booth School of Business for Professors Chad Syverson and Austan Goolsbee.
+Hi, I'm Joe Tatarka. I am applying to economics PhD programs to start in Fall 2025. I am currently working as a predoc at the University of Chicago Booth School of Business for Professors Chad Syverson and Austan Goolsbee.
 
 
 ## Background and Interests
