@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Undergraduate Research
+Working Papers
 -======
 
 {% for post in site.publications reversed %}
