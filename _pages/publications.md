@@ -14,6 +14,6 @@ author_profile: true
 Working Papers
 -======
 
-<a href="https://joetatarka.github.io/files/restaurant_productivity_working.pdf">The Curious Surge of Productivity in U.S. Restaurants </a> (with Austan Goolsbee, Chad Syverson, and Rebecca Goldgof). NBER Working Paper, March 2025.
+<a href="https://joetatarka.github.io/files/restaurant_productivity_working.pdf" target="_blank">The Curious Surge of Productivity in U.S. Restaurants</a> (with Austan Goolsbee, Chad Syverson, and Rebecca Goldgof). NBER Working Paper, March 2025.
 
 
