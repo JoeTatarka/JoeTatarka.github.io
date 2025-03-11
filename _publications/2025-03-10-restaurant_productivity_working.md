@@ -1,5 +1,5 @@
 ---
-title: "The Curious Surge Of Productivity in U.S. Restaurants"
+title: "The Curious Surge Of Productivity in U.S. Restaurants (with Austan Goolsbee, Chad Syverson, and Rebecca Goldgof)"
 collection: publications
 permalink: /publication/2025-03-10-restaurant_productivity_working
 excerpt: ''
